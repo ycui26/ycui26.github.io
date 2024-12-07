@@ -3,5 +3,5 @@
 {% else %}
   {% assign base_path = site.github.url %}
 {% endif %}
+{%  assign base_path  = https://ycui26.github.io/ %}
 
-base_path  = https://ycui26.github.io/
