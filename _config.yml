@@ -24,7 +24,7 @@ author:
   avatar           : "bio.jpg"
   name             : "Yue Cui"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/yue-cui-439a03197/
+  linkedin         : yue-cui-439a03197
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
