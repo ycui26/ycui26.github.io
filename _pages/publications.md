@@ -7,8 +7,6 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=L0_TB54AAAAJ).
 
-
-
 1. <ins>Yue Cui</ins>, Ningning Ding, and Man Hon Cheung. “**AoI-aware Federated Unlearning for Streaming Data with Online Client Selection and Pricing.**” 2025 IEEE International Conference on Computer Communications (INFOCOM'25) <span style="color:red">(Acceptance Rate: 18.6\%)</span>
 2. Ni Yang, <ins>Yue Cui</ins>, and Man Hon Cheung. “**Convergence Analysis and Contract Design for Adaptive Federated Learning.**” Submitted to Transactions in Mobile Computing (TMC)
 3. <ins>Yue Cui</ins> and Man Hon Cheung. “**The Price of Forgetting: Incentive Mechanism Design for Machine Unlearning.**” Submitted to Transactions in Mobile Computing (TMC)
