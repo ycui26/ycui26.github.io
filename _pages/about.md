@@ -20,7 +20,7 @@ My research focuses on interdisciplinary areas of artificial intelligence, data 
 Awards and Honors
 ------
 - **Student Travel Grant**, IEEE ICC, \$1000, 2024
-- **Student Paper Competition Finalists**, IEEE EMBC, Only 1 in North America, 2022
+- **Student Paper Competition Finalist**, IEEE EMBC, Only 1 in North America, 2022
 - **Tennessee's Top 100 Fellowships**, \$10,000 per year, University of Tennessee, 2021
 - **Third Prize of Sichuan Province**, Chinese Undergraduate Computer Design Contest, 2021
 - **Second Prize of Sichuan Province**, National College Student E-commerce "Innovation, Creativity, and Entrepreneurship" Challenge Competition, 2021
