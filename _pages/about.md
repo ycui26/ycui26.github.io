@@ -12,10 +12,10 @@ I am a third-year Ph.D. student in Department of Computer Science, City Universi
 
 Research Interests
 ------
-My research focuses on interdisciplinary areas of artificial intelligence, data privacy, and network economics.
+My research focuses on the intersection of artificial intelligence, data privacy, and network economics.
 - **Artificial Intelligence**: federated learning, convergence analysis
 - **Data Privacy**: centralized/federated unlearning, adversarial attack and defense
-- **Network Economics**: incentive and pricing mechanism, game theory
+- **Network Economics**: incentive and pricing mechanism, game theory, convex optimization
 
 Awards and Honors
 ------
