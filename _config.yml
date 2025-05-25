@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.jpg"
+  avatar           : "bio_paul.jpg"
   name             : "Yue Cui"
   pronouns         : # example: "she/her"  
   bio              : "Email: yuecui8-c@my.cityu.edu.hk" #"Short biography for the left-hand sidebar"
