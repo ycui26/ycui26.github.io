@@ -1,3 +1,12 @@
+Side bar: _config.yml
+
+Home page: _pages/about.md
+
+Pub: _pages/publications.md
+
+CV: _pages/cv.html
+
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
