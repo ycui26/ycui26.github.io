@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in Department of Computer Science, City University of Hong Kong (CityU), advised by Dr. [Man Hon Cheung](https://www.cs.cityu.edu.hk/~mhcheung/index.htm). From September 2021 to May 2022, I was a research assistant in Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville (UTK), advised by Dr. [Jian Liu](https://web.eecs.utk.edu/~jliu/). I received my B.Eng. degree in Computer Science and Technology (minor in Finance) from University of Electronic Science and Technology of China (UESTC) in June 2021.
+I am a final year Ph.D. student in Department of Computer Science, City University of Hong Kong (CityU), advised by Dr. [Man Hon Cheung](https://www.cs.cityu.edu.hk/~mhcheung/index.htm). From September 2021 to May 2022, I was a research assistant in Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville (UTK), advised by Dr. [Jian Liu](https://web.eecs.utk.edu/~jliu/). I received my B.Eng. degree in Computer Science and Technology (double major in Finance) from University of Electronic Science and Technology of China (UESTC) in June 2021.
 
 
 Research Interests
@@ -24,7 +24,7 @@ Awards and Honors
 - **Student Travel Grant**, IEEE ICC, \$1000, 2024
 - **Student Paper Competition Finalist**, IEEE EMBC, Only 1 in North America, 2022
 - **Tennessee's Top 100 Fellowship**, \$10,000 per year, University of Tennessee, 2021
-- **The Outstanding Student of 2019**, School of Computer Science and Engineering, UESTC, 2019
+- **The Outstanding Student of 2019**, Department of Computer Science and Engineering, UESTC, 2019
 - **Merit-based Outstanding Student Scholarship**, UESTC, 2018 - 2020
      
     
