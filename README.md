@@ -1,5 +1,7 @@
 Side bar: _config.yml
 
+Avatar fig: images/xx.jpg
+
 Home page: _pages/about.md
 
 Pub: _pages/publications.md
