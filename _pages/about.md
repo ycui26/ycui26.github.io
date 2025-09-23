@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in Department of Computer Science, City University of Hong Kong (CityU), advised by Dr. [Man Hon Cheung](https://www.cs.cityu.edu.hk/~mhcheung/index.htm). From September 2021 to May 2022, I was a research assistant in Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville (UTK), advised by Dr. [Jian Liu](https://web.eecs.utk.edu/~jliu/). I received my B.Eng. degree in Computer Science and Technology (double major in Finance) from University of Electronic Science and Technology of China (UESTC) in June 2021.
+I am a final year Ph.D. student in Department of Computer Science, City University of Hong Kong (CityU), advised by Dr. [Man Hon Cheung](https://www.cs.cityu.edu.hk/~mhcheung/index.htm). I am also a visiting student in [Commnet Laboratory (Communications and Networking Laboratory)](https://sites.northwestern.edu/commnet/) at Northwestern University from 2025 to 2026, hosted by Prof. [Randall Berry](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/berry-randy.html). From 2021 to 2022, I was a research assistant in Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville (UTK), advised by Dr. [Jian Liu](https://web.eecs.utk.edu/~jliu/). I received my B.Eng. degree in Computer Science and Technology (double major in Finance) from University of Electronic Science and Technology of China (UESTC) in 2021.
 
 
 Research Interests
 ------
 My research focuses on the intersection of artificial intelligence, data privacy, and network economics.
 - **Artificial Intelligence**: federated learning, convergence analysis
-- **Data Privacy**: centralized/federated unlearning, adversarial attack and defense
+- **Data Privacy**: machine unlearning, adversarial attack and defense
 - **Network Economics**: incentive and pricing mechanism, game theory, convex optimization
 
 Awards and Honors
