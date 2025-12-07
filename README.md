@@ -6,7 +6,7 @@ Home page: _pages/about.md
 
 Pub: _pages/publications.md
 
-CV: _pages/cv.html, author_profile: false
+CV: _pages/cv.html
 
 
 # Academic Pages
