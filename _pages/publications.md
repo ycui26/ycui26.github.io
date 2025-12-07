@@ -7,12 +7,12 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=L0_TB54AAAAJ).
 
-##### Manuscript
+### Manuscript
 3. <ins>Yue Cui</ins>, Ningning Ding, and Man Hon Cheung. “**Verification Game in Machine Unlearning.**” Under Review.
 2. <ins>Yue Cui</ins>, Ningning Ding, and Man Hon Cheung. “**Online Client Selection and Pricing for AoI-aware Federated Unlearning with Private Information.**” Under Review.
 1. Ni Yang, <ins>Yue Cui</ins>, and Man Hon Cheung. “**Convergence Analysis and Contract Design for Adaptive Federated Learning.**” Under Review.
 
-##### Publications
+### Publications
 
 7. <ins>Yue Cui</ins>, Ningning Ding, and Man Hon Cheung. “**AoI-aware Federated Unlearning for Streaming Data with Online Client Selection and Pricing.**” 2025 IEEE International Conference on Computer Communications (INFOCOM'25) <span style="color:red">(Acceptance Rate: 18.6%)</span> ([PDF](https://ieeexplore.ieee.org/document/11044760))
 6. <ins>Yue Cui</ins> and Man Hon Cheung. “**The Price of Forgetting: Incentive Mechanism Design for Machine Unlearning.**” 2025 IEEE Transactions on Mobile Computing (TMC) ([PDF](https://ieeexplore.ieee.org/abstract/document/11049912))
