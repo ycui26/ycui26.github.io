@@ -8,6 +8,7 @@ Pub: _pages/publications.md
 
 CV: _pages/cv.html
 
+top bar: _data/navigation.yml
 
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
